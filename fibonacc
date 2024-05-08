@@ -1,0 +1,15 @@
+fibonacci series: 0 1 1 2 3 5 8 13 21 43...
+user input
+0: invalid input 
+2: [0]
+3: [0, 1, 1]
+4  [0, 1, 1, 2]
+5  [0, 1, 1, 2, 3]
+10: [0, 1, 1, 2, 3, 5, 8, 13, 21, 34]
+11: 
+    
+def get_fibonacci_series(num):
+    if num <= 0;
+    print("invalid input numbe. the number must be positive integer")
+    return None
+    fibonacci_series =[0,1ol]\l
